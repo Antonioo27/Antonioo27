@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Antonio
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning Informatica per il Management 
-- 📫 How to reach me antonjuve80@gmail.com
+- 📫 How to reach me antonio.lombardi125@gmail.com
 - 😄 Pronouns: sit back and relax...
 
 <!---
